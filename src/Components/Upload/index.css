@@ -1,0 +1,16 @@
+.upload-wrapper {
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.upload-item {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.upload-item input {
+  width: 300px;
+}
